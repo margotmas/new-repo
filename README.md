@@ -1,4 +1,4 @@
-# new-repo
+REMOTE
 quelques lignes
 quelques lignes
 quelques lignes
